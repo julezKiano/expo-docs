@@ -29,7 +29,7 @@ detectFaces = async (imageUri) => {
 // ...
 ```
 
-### `detectFaces`
+### `detectFacesAsync`
 
 Detect faces on a picture.
 
